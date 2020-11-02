@@ -70,7 +70,7 @@ module.exports = {
     {
       title: "Social Links",
       description:
-        "Easily add social media accounts and contact info in the footer via the site-config.js file. No HTML/CSS needed.",
+        "Chicago Party Bus Rental &amp; Trolley Wedding Limo Service</b> to make your wedding a special and a most memorable event of your life, you have come to the right place; we specialize in <b>Chicago Wedding limo Service</b>, <b>Bachelor Party Limousine Service Chicago </b>or <b>Bachelorette Party Limo Service Chicago </b>and Suburbs. We carry late model <b>SUV Limo</b> <b>and a</b> <b>Party Limo Bus</b> with full amenities and luxury driven by our professionally attired experience chauffeurs who have enough experience to take good care of your.",
       fontawesome_icon_name: "link",
     },
     {
