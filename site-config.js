@@ -33,9 +33,9 @@ module.exports = {
       fontawesome_icon_name: "magic",
     },
     {
-      title: "iPhone Device Preview",
+      title: "this is were i find out this workds",
       description:
-        "Preview your app in the context of an iPhone device. Five different device colors included.",
+        "woeoeoowowoe",
       fontawesome_icon_name: "mobile",
     },
     {
